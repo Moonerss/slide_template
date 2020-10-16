@@ -35,4 +35,24 @@ background-size: contain
 
 - Getting Started
 ]
+.pull-right[
+This is the right
 ]
+]
+
+---
+
+class: inverse
+# Title
+This is a test
+
+---
+
+class: center, middle
+<img src="images/RStudio-Logo-Flat.png" width = "75%">
+.pull-left[.center[
+<img src="images/usethis logo.png">
+]]
+.pull-right[.center[
+<img src="images/roxygen2 logo 3.png" width = "52%">
+]]
