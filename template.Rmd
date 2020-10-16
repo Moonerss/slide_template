@@ -1,0 +1,38 @@
+---
+title: "This is the title"
+subtitle: "This is the subtitle"
+author: "Jeason Zhao"
+institute: "HMU"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [default, default-fonts, "my-theme.css"]
+    lib_dir: libs
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Para 1
+
+## header 2
+
++ point
+  - sub point
+  
+---
+
+background-image: url(images/hex_stickers_blurred3.png)
+background-size: contain
+
+# set background
+
+.xlarge[
+.pull-left[
+- R Package Structure
+
+- Getting Started
+]
+]
